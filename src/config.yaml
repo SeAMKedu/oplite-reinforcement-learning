@@ -1,0 +1,26 @@
+environment:
+  id: FrozenLake-v1
+  action_left: 0
+  action_down: 1
+  action_right: 2
+  action_up: 3
+
+qlearning:
+  max_episodes: 15000
+  max_steps: 200
+  learning_rate: 0.10
+  discount_factor: 0.96
+
+server:
+  host: 127.0.0.1
+  port: 30000
+
+plant_simulation:
+  host: 127.0.0.1
+  port: 31000
+  name: ps
+
+visual_components:
+  host: 127.0.0.1
+  port: 32000
+  name: vc
