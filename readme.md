@@ -27,11 +27,11 @@ sequenceDiagram
 ## Simulaatiomallit
 
 Reittihaku-sovellus on suunniteltu toimimaan yhdessä seuraavien simulaatiomallien kanssa:
-* OPLITE_Reinforcement_Learning_external.vcmx (Visual Componennts)
+* OPLITE_Reinforcement_Learning_external.vcmx (Visual Components)
 * oplite_reinforcement_learning_external.spp (Plant Simulation)
 
 Alla olevat simulaatiomallit toimivat itsenäisesti ilman ulkoista reittihaku-sovellusta. Niitä voi käyttää, jos tietokoneelle ei ole asennettu Python-ohjelmointikieltä tai jos simulaatiomallin ja ulkoisen sovelluksen välisessä yhteydessä on jotain ongelmaa.
-* OPLITE_Reinforcement_Learning_python2.vcmx (Visual Componennts)
+* OPLITE_Reinforcement_Learning_python2.vcmx (Visual Components)
 * oplite_reinforcement_learning_simtalk.spp (Plant Simulation)
 
 Kaikki simulaatiomallit löytyvät *sims*-kansiosta.
