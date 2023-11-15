@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/719007511.svg)](https://zenodo.org/doi/10.5281/zenodo.10134440)
+
 ![logo](/images/OPLITE_logo_text.png)
 
 # OPLITE - Vahvistusoppiminen
